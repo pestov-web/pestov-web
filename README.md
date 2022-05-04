@@ -1,7 +1,8 @@
-### Привет 👋
+### Hello world! 👋 My name is Vladimir
+#### I am a Junior FrontEnd developer
 
 
-#### Мой основной стек
+### My main stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
 ![Sass](https://img.shields.io/badge/-Sass-141130?style=flat-square&logo=Sass)
@@ -11,7 +12,7 @@
 ![GIT](https://img.shields.io/badge/-git-141130?style=flat-square&logo=git)
 
 
-#### Опыт работы:
+### Had experience with:
 ![LINUX](https://img.shields.io/badge/-Linux-141130?style=flat-square&logo=Linux&logoColor=ffffff)
 ![NGINX](https://img.shields.io/badge/-nginx-141130?style=flat-square&logo=NGINX&logoColor=009900)
 ![Node.js](https://img.shields.io/badge/-Node.js-141130?style=flat-square&logo=Node.js)
@@ -26,17 +27,15 @@
 ![WEBPACK](https://img.shields.io/badge/-WebPack-141130?style=flat-square&logo=WEBPACK)
 ![Docker](https://img.shields.io/badge/-Docker-141130?style=flat-square&logo=Docker)
 ![MUI](https://img.shields.io/badge/-MUI-141130?style=flat-square&logo=MUI)
-<!--
-**pestov-web/pestov-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio:
+https://pestov-web.ru/
+
+### Contacts:
+[![Facebook Badge](https://img.shields.io/badge/mindwrk-facebook?style=flat&color=00ABEC&logoColor=white&logo=facebook)](https://www.facebook.com/mindwrk "Connect on FaceBook")
+[![Telegram Badge](https://img.shields.io/badge/@mindwrk-telegram?style=flat&color=2AA7DA&logoColor=white&logo=telegram)](https://t.me/mindwrk "Contact on Telegram")
+[![Linkedin Badge](https://img.shields.io/badge/%40vladimir-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/vladimir-pestov-a36a00238/ "Connect on LinkedIn")
+[![Yandex Badge](https://img.shields.io/badge/pestov.web@yandex.ru-email?style=flat&color=C5211E&logoColor=white&logo=Mail.Ru)](pestov.web@yandex.ru "Email me")
+
+
