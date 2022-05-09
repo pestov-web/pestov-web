@@ -27,6 +27,7 @@
 ![WEBPACK](https://img.shields.io/badge/-WebPack-141130?style=flat-square&logo=WEBPACK)
 ![Docker](https://img.shields.io/badge/-Docker-141130?style=flat-square&logo=Docker)
 ![MUI](https://img.shields.io/badge/-MUI-141130?style=flat-square&logo=MUI)
+![Vue](https://img.shields.io/badge/-Vue-141130?style=flat-square&logo=VUE.js)
 
 
 ### Portfolio:
