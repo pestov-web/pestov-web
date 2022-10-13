@@ -9,6 +9,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-141130?style=flat-square&logo=BEM)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
+![Next](https://img.shields.io/badge/-Next-141130?style=flat-square&logo=Next)
 ![GIT](https://img.shields.io/badge/-git-141130?style=flat-square&logo=git)
 
 
