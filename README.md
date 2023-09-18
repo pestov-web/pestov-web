@@ -1,5 +1,5 @@
 ### Hello world! 👋 My name is Vladimir
-#### I am a Junior FrontEnd developer
+#### I am a FrontEnd developer
 
 
 ### My main stack:
