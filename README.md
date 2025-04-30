@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141130?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
-![Next](https://img.shields.io/badge/-Next-141130?style=flat-square&logo=Next)
+![NextJS](https://img.shields.io/badge/-NextJS-141130?style=flat-square&logo=next.js)
 ![Prisma](https://img.shields.io/badge/-prisma-141130?style=flat-square&logo=prisma)
 
 
