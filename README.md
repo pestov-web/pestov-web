@@ -3,14 +3,13 @@
 
 
 ### My main stack:
-![HTML5](https://img.shields.io/badge/-HTML5-141130?style=flat-square&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
 ![Sass](https://img.shields.io/badge/-Sass-141130?style=flat-square&logo=Sass)
 ![BEM](https://img.shields.io/badge/-BEM-141130?style=flat-square&logo=BEM)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-141130?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
 ![Next](https://img.shields.io/badge/-Next-141130?style=flat-square&logo=Next)
-![GIT](https://img.shields.io/badge/-git-141130?style=flat-square&logo=git)
+![Prisma](https://img.shields.io/badge/-prisma-141130?style=flat-square&logo=prisma)
 
 
 ### Had experience with:
